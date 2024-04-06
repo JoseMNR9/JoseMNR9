@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CyberSecurity**
 
-- 👨‍💻 All of my projects are available at [JoseMNR9.github.io]([JoseMNR9.github.io](https://josemnr9.github.io/))
+- 👨‍💻 All of my projects are available at [JoseMNR9.github.io](https://josemnr9.github.io/)
 
 - 📫 How to reach me **chemanavrod@gmail.com**
 
