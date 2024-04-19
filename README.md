@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Rust and Python**
 
-- 🌱 I’m currently learning **CyberSecurity**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [JoseMNR9.github.io](https://josemnr9.github.io/)
 
