@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jose Mª Navarro</h1>
 <h3 align="center">A Full-Stack developer from Spain</h3>
 
-- 🔭 I’m currently working on **Rust and Python**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Cibersecurity**
 
 - 👨‍💻 All of my projects are available at [JoseMNR9.github.io](https://josemnr9.github.io/)
 
